@@ -87,7 +87,7 @@ The same structure is used across the companion projects, with project-specific 
 
 🛠️ Installation
 1. Clone the repository
-git clone https://github.com/Juwadnath/ai-automation-engineer-companion.git
+git clone https://github.com/JuwadNath/AI-Automation-Engineer-10-Project-Companion.git
 cd AI-Automation-Engineer-10-Project-Companion
 Replace YOUR-USERNAME with your GitHub username.
 
